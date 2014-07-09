@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package pokedex;
+package pokedex.clases;
 //import java.io.*;
 import java.awt.*;
 import java.awt.event.*;
@@ -15,26 +15,26 @@ import javax.swing.LayoutStyle.*;
  *
  * @author Pablo
  */
-public class PokeDex extends JFrame implements ActionListener
+public class PokeDexGuiTest extends JFrame implements ActionListener
 {
-    static Dex dex;
+    public PokeDex dex;
     private JComponent titlePane, contentPane, bottomPane;
     private JLabel titleLabel, resizeLabel;
     private JButton closeButton;
     private Window w = this;
     private ActionListener closeListener;
 
-    PokeDex()
+    public PokeDexGuiTest()
     {
         super("PokeDex");
-        dex = new Dex();
+        dex = new PokeDex();
         dex.cargar();
     }
     
-    PokeDex(String nombre)
+    public PokeDexGuiTest(String nombre)
     {
         super(nombre);
-        dex = new Dex();
+        dex = new PokeDex();
         dex.cargar();
         
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -53,15 +53,15 @@ public class PokeDex extends JFrame implements ActionListener
         titleLabel = new JLabel(getTitle());
 	titleLabel.setForeground(Color.WHITE);
 	closeButton = new JButton();
-	closeButton.setIcon(new ImageIcon(PokeDex.class.getResource("close.png")));
-	closeButton.setRolloverIcon(new ImageIcon(PokeDex.class.getResource("close_hover.png")));
-	closeButton.setPressedIcon(new ImageIcon(PokeDex.class.getResource("close_pressed.png")));
+	closeButton.setIcon(new ImageIcon(PokeDexGuiTest.class.getResource("close.png")));
+	closeButton.setRolloverIcon(new ImageIcon(PokeDexGuiTest.class.getResource("close_hover.png")));
+	closeButton.setPressedIcon(new ImageIcon(PokeDexGuiTest.class.getResource("close_pressed.png")));
 	closeButton.setFocusable(false);
 	closeButton.setFocusPainted(false);
 	closeButton.setBorderPainted(false);
 	closeButton.setContentAreaFilled(false);
 	//titlePane = createTitlePane();
-	resizeLabel = new JLabel(new ImageIcon(PokeDex.class.getResource(
+	resizeLabel = new JLabel(new ImageIcon(PokeDexGuiTest.class.getResource(
 			"resize_corner_dark.png")));
 	//bottomPane = createBottomPane();
 

@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package pokedex;
+package pokedex.clases;
 
 /**
  *
@@ -22,17 +22,18 @@ public class Pokemon
         descripcion = "Falla";
     }
     
-    Pokemon(int num, String nom, int hp, int atk, int def, int spAtk, int spDef, int speed, String desc, String tipo1, String tipo2)
+    Pokemon(int num, String nom, int hp, int atk, int def, int spAtk, int spDef, int speed, int avg, String desc, String tipo1, String tipo2)
     {
         numero = num;
         nombre = nom;
-        stats = new int[6];
+        stats = new int[7];
         stats[0] = hp;
         stats[1] = atk;
         stats[2] = def;
         stats[3] = spAtk;
         stats[4] = spDef;
         stats[5] = speed;
+        stats[6] = avg;
         descripcion = desc;
         type1 = tipo1;
         if(tipo2.equals(""))
@@ -45,7 +46,7 @@ public class Pokemon
         }
     }
     
-    void imprimir()
+    public void imprimir()
     {
         System.out.print(numero+" "+nombre+" "+type1);
         if(!type2.equals(""))
