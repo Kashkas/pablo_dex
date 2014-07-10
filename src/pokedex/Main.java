@@ -6,7 +6,7 @@
 package pokedex;
 
 import pokedex.clases.Pokemon;
-import pokedex.clases.PokeDexGuiTest;
+//import pokedex.clases.PokeDexGuiTest;
 import pokedex.clases.PokeDex;
 import java.io.*;
 
@@ -39,7 +39,7 @@ public class Main
         {
             resultado.imprimir();
         }
-        dex.guardarSQLite();
+        //dex.guardarSQLite();
     }
     
 }

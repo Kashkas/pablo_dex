@@ -12,6 +12,7 @@ package pokedex.clases;
 public class Pokemon 
 {
     int numero;
+    double avg;
     String nombre, descripcion, type1, type2;
     int[] stats;
     
@@ -22,7 +23,7 @@ public class Pokemon
         descripcion = "Falla";
     }
     
-    Pokemon(int num, String nom, int hp, int atk, int def, int spAtk, int spDef, int speed, int avg, String desc, String tipo1, String tipo2)
+    Pokemon(int num, String nom, int hp, int atk, int def, int spAtk, int spDef, int speed, double average, String desc, String tipo1, String tipo2)
     {
         numero = num;
         nombre = nom;
@@ -33,7 +34,7 @@ public class Pokemon
         stats[3] = spAtk;
         stats[4] = spDef;
         stats[5] = speed;
-        stats[6] = avg;
+        avg = average;
         descripcion = desc;
         type1 = tipo1;
         if(tipo2.equals(""))

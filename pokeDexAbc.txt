@@ -1,650 +1,1 @@
-Ndex	MS		Pokémon		Type
-#460 	460 	Abomasnow 	Grass 	Ice
-#063 	063 	Abra 	Psychic
-#359 	359 	Absol 	Dark
-#617 	617 	Accelgor 	Bug
-#142 	142 	Aerodactyl 	Rock 	Flying
-#306 	306 	Aggron 	Steel 	Rock
-#190 	190 	Aipom 	Normal
-#065 	065 	Alakazam 	Psychic
-#594 	594 	Alomomola 	Water
-#334 	334 	Altaria 	Dragon 	Flying
-#424 	424 	Ambipom 	Normal
-#591 	591 	Amoonguss 	Grass 	Poison
-#181 	181 	Ampharos 	Electric
-#347 	347 	Anorith 	Rock 	Bug
-#024 	024 	Arbok 	Poison
-#059 	059 	Arcanine 	Fire
-#493 	493 	Arceus 	Normal
-#566 	566 	Archen 	Rock 	Flying
-#567 	567 	Archeops 	Rock 	Flying
-#168 	168 	Ariados 	Bug 	Poison
-#348 	348 	Armaldo 	Rock 	Bug
-#304 	304 	Aron 	Steel 	Rock
-#144 	144 	Articuno 	Ice 	Flying
-#531 	531 	Audino 	Normal
-#610 	610 	Axew 	Dragon
-#482 	482 	Azelf 	Psychic
-#184 	184 	Azumarill 	Water
-#298 	298 	Azurill 	Normal
-#371 	371 	Bagon 	Dragon
-#343 	343 	Baltoy 	Ground 	Psychic
-#354 	354 	Banette 	Ghost
-#339 	339 	Barboach 	Water 	Ground
-#550 	550 	Basculin 	Water
-#411 	411 	Bastiodon 	Rock 	Steel
-#153 	153 	Bayleef 	Grass
-#614 	614 	Beartic 	Ice
-#267 	267 	Beautifly 	Bug 	Flying
-#015 	015 	Beedrill 	Bug 	Poison
-#606 	606 	Beheeyem 	Psychic
-#374 	374 	Beldum 	Steel 	Psychic
-#182 	182 	Bellossom 	Grass
-#069 	069 	Bellsprout 	Grass 	Poison
-#400 	400 	Bibarel 	Normal 	Water
-#399 	399 	Bidoof 	Normal
-#625 	625 	Bisharp 	Dark 	Steel
-#009 	009 	Blastoise 	Water
-#257 	257 	Blaziken 	Fire 	Fighting
-#242 	242 	Blissey 	Normal
-#522 	522 	Blitzle 	Electric
-#525 	525 	Boldore 	Rock
-#438 	438 	Bonsly 	Rock
-#626 	626 	Bouffalant 	Normal
-#628 	628 	Braviary 	Normal 	Flying
-#286 	286 	Breloom 	Grass 	Fighting
-#437 	437 	Bronzong 	Steel 	Psychic
-#436 	436 	Bronzor 	Steel 	Psychic
-#406 	406 	Budew 	Grass 	Poison
-#418 	418 	Buizel 	Water
-#001 	001 	Bulbasaur 	Grass 	Poison
-#427 	427 	Buneary 	Normal
-#412 	412 	Burmy 	Bug
-#012 	012 	Butterfree 	Bug 	Flying
-#331 	331 	Cacnea 	Grass
-#332 	332 	Cacturne 	Grass 	Dark
-#323 	323 	Camerupt 	Fire 	Ground
-#455 	455 	Carnivine 	Grass
-#565 	565 	Carracosta 	Water 	Rock
-#318 	318 	Carvanha 	Water 	Dark
-#268 	268 	Cascoon 	Bug
-#351 	351 	Castform 	Normal
-#010 	010 	Caterpie 	Bug
-#251 	251 	Celebi 	Psychic 	Grass
-#609 	609 	Chandelure 	Ghost 	Fire
-#113 	113 	Chansey 	Normal
-#006 	006 	Charizard 	Fire 	Flying
-#004 	004 	Charmander 	Fire
-#005 	005 	Charmeleon 	Fire
-#441 	441 	Chatot 	Normal 	Flying
-#421 	421 	Cherrim 	Grass
-#420 	420 	Cherubi 	Grass
-#152 	152 	Chikorita 	Grass
-#390 	390 	Chimchar 	Fire
-#358 	358 	Chimecho 	Psychic
-#170 	170 	Chinchou 	Water 	Electric
-#433 	433 	Chingling 	Psychic
-#573 	573 	Cinccino 	Normal
-#366 	366 	Clamperl 	Water
-#344 	344 	Claydol 	Ground 	Psychic
-#036 	036 	Clefable 	Normal
-#035 	035 	Clefairy 	Normal
-#173 	173 	Cleffa 	Normal
-#091 	091 	Cloyster 	Water 	Ice
-#638 	638 	Cobalion 	Steel 	Fighting
-#563 	563 	Cofagrigus 	Ghost
-#415 	415 	Combee 	Bug 	Flying
-#256 	256 	Combusken 	Fire 	Fighting
-#534 	534 	Conkeldurr 	Fighting
-#341 	341 	Corphish 	Water
-#222 	222 	Corsola 	Water 	Rock
-#546 	546 	Cottonee 	Grass
-#346 	346 	Cradily 	Rock 	Grass
-#408 	408 	Cranidos 	Rock
-#342 	342 	Crawdaunt 	Water 	Dark
-#488 	488 	Cresselia 	Psychic
-#453 	453 	Croagunk 	Poison 	Fighting
-#169 	169 	Crobat 	Poison 	Flying
-#159 	159 	Croconaw 	Water
-#558 	558 	Crustle 	Bug 	Rock
-#615 	615 	Cryogonal 	Ice
-#613 	613 	Cubchoo 	Ice
-#104 	104 	Cubone 	Ground
-#155 	155 	Cyndaquil 	Fire
-#491 	491 	Darkrai 	Dark
-#555 	555 	Darmanitan 	Fire
-#554 	554 	Darumaka 	Fire
-#585 	585 	Deerling 	Normal 	Grass
-#633 	633 	Deino 	Dark 	Dragon
-#301 	301 	Delcatty 	Normal
-#225 	225 	Delibird 	Ice 	Flying
-#386 	386 	Deoxys 	Psychic
-#087 	087 	Dewgong 	Water 	Ice
-#502 	502 	Dewott 	Water
-#483 	483 	Dialga 	Steel 	Dragon
-#050 	050 	Diglett 	Ground
-#132 	132 	Ditto 	Normal
-#085 	085 	Dodrio 	Normal 	Flying
-#084 	084 	Doduo 	Normal 	Flying
-#232 	232 	Donphan 	Ground
-#148 	148 	Dragonair 	Dragon
-#149 	149 	Dragonite 	Dragon 	Flying
-#452 	452 	Drapion 	Poison 	Dark
-#147 	147 	Dratini 	Dragon
-#426 	426 	Drifblim 	Ghost 	Flying
-#425 	425 	Drifloon 	Ghost 	Flying
-#529 	529 	Drilbur 	Ground
-#096 	096 	Drowzee 	Psychic
-#621 	621 	Druddigon 	Dragon
-#580 	580 	Ducklett 	Water 	Flying
-#051 	051 	Dugtrio 	Ground
-#206 	206 	Dunsparce 	Normal
-#578 	578 	Duosion 	Psychic
-#632 	632 	Durant 	Bug 	Steel
-#356 	356 	Dusclops 	Ghost
-#477 	477 	Dusknoir 	Ghost
-#355 	355 	Duskull 	Ghost
-#269 	269 	Dustox 	Bug 	Poison
-#557 	557 	Dwebble 	Bug 	Rock
-#603 	603 	Eelektrik 	Electric
-#604 	604 	Eelektross 	Electric
-#133 	133 	Eevee 	Normal
-#023 	023 	Ekans 	Poison
-#125 	125 	Electabuzz 	Electric
-#466 	466 	Electivire 	Electric
-#309 	309 	Electrike 	Electric
-#101 	101 	Electrode 	Electric
-#239 	239 	Elekid 	Electric
-#605 	605 	Elgyem 	Psychic
-#500 	500 	Emboar 	Fire 	Fighting
-#587 	587 	Emolga 	Electric 	Flying
-#395 	395 	Empoleon 	Water 	Steel
-#244 	244 	Entei 	Fire
-#589 	589 	Escavalier 	Bug 	Steel
-#196 	196 	Espeon 	Psychic
-#530 	530 	Excadrill 	Ground 	Steel
-#102 	102 	Exeggcute 	Grass 	Psychic
-#103 	103 	Exeggutor 	Grass 	Psychic
-#295 	295 	Exploud 	Normal
-#083 	083 	Farfetch'd 	Normal 	Flying
-#022 	022 	Fearow 	Normal 	Flying
-#349 	349 	Feebas 	Water
-#160 	160 	Feraligatr 	Water
-#597 	597 	Ferroseed 	Grass 	Steel
-#598 	598 	Ferrothorn 	Grass 	Steel
-#456 	456 	Finneon 	Water
-#180 	180 	Flaaffy 	Electric
-#136 	136 	Flareon 	Fire
-#419 	419 	Floatzel 	Water
-#330 	330 	Flygon 	Ground 	Dragon
-#590 	590 	Foongus 	Grass 	Poison
-#205 	205 	Forretress 	Bug 	Steel
-#611 	611 	Fraxure 	Dragon
-#592 	592 	Frillish 	Water 	Ghost
-#478 	478 	Froslass 	Ice 	Ghost
-#162 	162 	Furret 	Normal
-#444 	444 	Gabite 	Dragon 	Ground
-#475 	475 	Gallade 	Psychic 	Fighting
-#596 	596 	Galvantula 	Bug 	Electric
-#569 	569 	Garbodor 	Poison
-#445 	445 	Garchomp 	Dragon 	Ground
-#282 	282 	Gardevoir 	Psychic 	Fairy
-#092 	092 	Gastly 	Ghost 	Poison
-#423 	423 	Gastrodon 	Water 	Ground
-#649 	649 	Genesect 	Bug 	Steel
-#094 	094 	Gengar 	Ghost 	Poison
-#074 	074 	Geodude 	Rock 	Ground
-#443 	443 	Gible 	Dragon 	Ground
-#526 	526 	Gigalith 	Rock
-#203 	203 	Girafarig 	Normal 	Psychic
-#487 	487 	Giratina 	Ghost 	Dragon
-#471 	471 	Glaceon 	Ice
-#362 	362 	Glalie 	Ice
-#431 	431 	Glameow 	Normal
-#207 	207 	Gligar 	Ground 	Flying
-#472 	472 	Gliscor 	Ground 	Flying
-#044 	044 	Gloom 	Grass 	Poison
-#042 	042 	Golbat 	Poison 	Flying
-#118 	118 	Goldeen 	Water
-#055 	055 	Golduck 	Water
-#076 	076 	Golem 	Rock 	Ground
-#622 	622 	Golett 	Ground 	Ghost
-#623 	623 	Golurk 	Ground 	Ghost
-#368 	368 	Gorebyss 	Water
-#574 	574 	Gothita 	Psychic
-#576 	576 	Gothitelle 	Psychic
-#575 	575 	Gothorita 	Psychic
-#210 	210 	Granbull 	Normal
-#075 	075 	Graveler 	Rock 	Ground
-#088 	088 	Grimer 	Poison
-#388 	388 	Grotle 	Grass
-#383 	383 	Groudon 	Ground
-#253 	253 	Grovyle 	Grass
-#058 	058 	Growlithe 	Fire
-#326 	326 	Grumpig 	Psychic
-#316 	316 	Gulpin 	Poison
-#533 	533 	Gurdurr 	Fighting
-#130 	130 	Gyarados 	Water 	Flying
-#440 	440 	Happiny 	Normal
-#297 	297 	Hariyama 	Fighting
-#093 	093 	Haunter 	Ghost 	Poison
-#612 	612 	Haxorus 	Dragon
-#631 	631 	Heatmor 	Fire
-#485 	485 	Heatran 	Fire 	Steel
-#214 	214 	Heracross 	Bug 	Fighting
-#507 	507 	Herdier 	Normal
-#449 	449 	Hippopotas 	Ground
-#450 	450 	Hippowdon 	Ground
-#107 	107 	Hitmonchan 	Fighting
-#106 	106 	Hitmonlee 	Fighting
-#237 	237 	Hitmontop 	Fighting
-#250 	250 	Ho-Oh 	Fire 	Flying
-#430 	430 	Honchkrow 	Dark 	Flying
-#163 	163 	Hoothoot 	Normal 	Flying
-#187 	187 	Hoppip 	Grass 	Flying
-#116 	116 	Horsea 	Water
-#229 	229 	Houndoom 	Dark 	Fire
-#228 	228 	Houndour 	Dark 	Fire
-#367 	367 	Huntail 	Water
-#635 	635 	Hydreigon 	Dark 	Dragon
-#097 	097 	Hypno 	Psychic
-#174 	174 	Igglybuff 	Normal
-#314 	314 	Illumise 	Bug
-#392 	392 	Infernape 	Fire 	Fighting
-#002 	002 	Ivysaur 	Grass 	Poison
-#593 	593 	Jellicent 	Water 	Ghost
-#039 	039 	Jigglypuff 	Normal 	Fairy
-#385 	385 	Jirachi 	Steel 	Psychic
-#135 	135 	Jolteon 	Electric
-#595 	595 	Joltik 	Bug 	Electric
-#189 	189 	Jumpluff 	Grass 	Flying
-#124 	124 	Jynx 	Ice 	Psychic
-#140 	140 	Kabuto 	Rock 	Water
-#141 	141 	Kabutops 	Rock 	Water
-#064 	064 	Kadabra 	Psychic
-#014 	014 	Kakuna 	Bug 	Poison
-#115 	115 	Kangaskhan 	Normal
-#588 	588 	Karrablast 	Bug
-#352 	352 	Kecleon 	Normal
-#647 	647 	Keldeo 	Water 	Fighting
-#230 	230 	Kingdra 	Water 	Dragon
-#099 	099 	Kingler 	Water
-#281 	281 	Kirlia 	Psychic
-#600 	600 	Klang 	Steel
-#599 	599 	Klink 	Steel
-#601 	601 	Klinklang 	Steel
-#109 	109 	Koffing 	Poison
-#098 	098 	Krabby 	Water
-#401 	401 	Kricketot 	Bug
-#402 	402 	Kricketune 	Bug
-#552 	552 	Krokorok 	Ground 	Dark
-#553 	553 	Krookodile 	Ground 	Dark
-#382 	382 	Kyogre 	Water
-#646 	646 	Kyurem 	Dragon 	Ice
-#305 	305 	Lairon 	Steel 	Rock
-#608 	608 	Lampent 	Ghost 	Fire
-#645 	645 	Landorus 	Ground 	Flying
-#171 	171 	Lanturn 	Water 	Electric
-#131 	131 	Lapras 	Water 	Ice
-#636 	636 	Larvesta 	Bug 	Fire
-#246 	246 	Larvitar 	Rock 	Ground
-#380 	380 	Latias 	Dragon 	Psychic
-#381 	381 	Latios 	Dragon 	Psychic
-#470 	470 	Leafeon 	Grass
-#542 	542 	Leavanny 	Bug 	Grass
-#166 	166 	Ledian 	Bug 	Flying
-#165 	165 	Ledyba 	Bug 	Flying
-#463 	463 	Lickilicky 	Normal
-#108 	108 	Lickitung 	Normal
-#510 	510 	Liepard 	Dark
-#345 	345 	Lileep 	Rock 	Grass
-#549 	549 	Lilligant 	Grass
-#506 	506 	Lillipup 	Normal
-#264 	264 	Linoone 	Normal
-#607 	607 	Litwick 	Ghost 	Fire
-#271 	271 	Lombre 	Water 	Grass
-#428 	428 	Lopunny 	Normal
-#270 	270 	Lotad 	Water 	Grass
-#294 	294 	Loudred 	Normal
-#448 	448 	Lucario 	Fighting 	Steel
-#272 	272 	Ludicolo 	Water 	Grass
-#249 	249 	Lugia 	Psychic 	Flying
-#457 	457 	Lumineon 	Water
-#337 	337 	Lunatone 	Rock 	Psychic
-#370 	370 	Luvdisc 	Water
-#404 	404 	Luxio 	Electric
-#405 	405 	Luxray 	Electric
-#068 	068 	Machamp 	Fighting
-#067 	067 	Machoke 	Fighting
-#066 	066 	Machop 	Fighting
-#240 	240 	Magby 	Fire
-#219 	219 	Magcargo 	Fire 	Rock
-#129 	129 	Magikarp 	Water
-#126 	126 	Magmar 	Fire
-#467 	467 	Magmortar 	Fire
-#081 	081 	Magnemite 	Electric 	Steel
-#082 	082 	Magneton 	Electric 	Steel
-#462 	462 	Magnezone 	Electric 	Steel
-#296 	296 	Makuhita 	Fighting
-#473 	473 	Mamoswine 	Ice 	Ground
-#490 	490 	Manaphy 	Water
-#630 	630 	Mandibuzz 	Dark 	Flying
-#310 	310 	Manectric 	Electric
-#056 	056 	Mankey 	Fighting
-#226 	226 	Mantine 	Water 	Flying
-#458 	458 	Mantyke 	Water 	Flying
-#556 	556 	Maractus 	Grass
-#179 	179 	Mareep 	Electric
-#183 	183 	Marill 	Water 	Fairy
-#105 	105 	Marowak 	Ground
-#259 	259 	Marshtomp 	Water 	Ground
-#284 	284 	Masquerain 	Bug 	Flying
-#303 	303 	Mawile 	Steel
-#308 	308 	Medicham 	Fighting 	Psychic
-#307 	307 	Meditite 	Fighting 	Psychic
-#154 	154 	Meganium 	Grass
-#648 	648 	Meloetta 	Normal 	Psychic
-#052 	052 	Meowth 	Normal
-#481 	481 	Mesprit 	Psychic
-#376 	376 	Metagross 	Steel 	Psychic
-#375 	375 	Metang 	Steel 	Psychic
-#011 	011 	Metapod 	Bug
-#151 	151 	Mew 	Psychic
-#150 	150 	Mewtwo 	Psychic
-#619 	619 	Mienfoo 	Fighting
-#620 	620 	Mienshao 	Fighting
-#262 	262 	Mightyena 	Dark
-#350 	350 	Milotic 	Water
-#241 	241 	Miltank 	Normal
-#439 	439 	Mime Jr. 	Psychic
-#572 	572 	Minccino 	Normal
-#312 	312 	Minun 	Electric
-#200 	200 	Misdreavus 	Ghost
-#429 	429 	Mismagius 	Ghost
-#146 	146 	Moltres 	Fire 	Flying
-#391 	391 	Monferno 	Fire 	Fighting
-#414 	414 	Mothim 	Bug 	Flying
-#122 	122 	Mr. Mime 	Psychic
-#258 	258 	Mudkip 	Water
-#089 	089 	Muk 	Poison
-#446 	446 	Munchlax 	Normal
-#517 	517 	Munna 	Psychic
-#198 	198 	Murkrow 	Dark 	Flying
-#518 	518 	Musharna 	Psychic
-#177 	177 	Natu 	Psychic 	Flying
-#034 	034 	Nidoking 	Poison 	Ground
-#031 	031 	Nidoqueen 	Poison 	Ground
-#029 	029 	Nidoran♀ 	Poison
-#032 	032 	Nidoran♂ 	Poison
-#030 	030 	Nidorina 	Poison
-#033 	033 	Nidorino 	Poison
-#290 	290 	Nincada 	Bug 	Ground
-#038 	038 	Ninetales 	Fire
-#291 	291 	Ninjask 	Bug 	Flying
-#164 	164 	Noctowl 	Normal 	Flying
-#299 	299 	Nosepass 	Rock
-#322 	322 	Numel 	Fire 	Ground
-#274 	274 	Nuzleaf 	Grass 	Dark
-#224 	224 	Octillery 	Water
-#043 	043 	Oddish 	Grass 	Poison
-#138 	138 	Omanyte 	Rock 	Water
-#139 	139 	Omastar 	Rock 	Water
-#095 	095 	Onix 	Rock 	Ground
-#501 	501 	Oshawott 	Water
-#417 	417 	Pachirisu 	Electric
-#484 	484 	Palkia 	Water 	Dragon
-#536 	536 	Palpitoad 	Water 	Ground
-#515 	515 	Panpour 	Water
-#511 	511 	Pansage 	Grass
-#513 	513 	Pansear 	Fire
-#046 	046 	Paras 	Bug 	Grass
-#047 	047 	Parasect 	Bug 	Grass
-#504 	504 	Patrat 	Normal
-#624 	624 	Pawniard 	Dark 	Steel
-#279 	279 	Pelipper 	Water 	Flying
-#053 	053 	Persian 	Normal
-#548 	548 	Petilil 	Grass
-#231 	231 	Phanpy 	Ground
-#489 	489 	Phione 	Water
-#172 	172 	Pichu 	Electric
-#018 	018 	Pidgeot 	Normal 	Flying
-#017 	017 	Pidgeotto 	Normal 	Flying
-#016 	016 	Pidgey 	Normal 	Flying
-#519 	519 	Pidove 	Normal 	Flying
-#499 	499 	Pignite 	Fire 	Fighting
-#025 	025 	Pikachu 	Electric
-#221 	221 	Piloswine 	Ice 	Ground
-#204 	204 	Pineco 	Bug
-#127 	127 	Pinsir 	Bug
-#393 	393 	Piplup 	Water
-#311 	311 	Plusle 	Electric
-#186 	186 	Politoed 	Water
-#060 	060 	Poliwag 	Water
-#061 	061 	Poliwhirl 	Water
-#062 	062 	Poliwrath 	Water 	Fighting
-#077 	077 	Ponyta 	Fire
-#261 	261 	Poochyena 	Dark
-#137 	137 	Porygon 	Normal
-#233 	233 	Porygon2 	Normal
-#474 	474 	Porygon-Z 	Normal
-#057 	057 	Primeape 	Fighting
-#394 	394 	Prinplup 	Water
-#476 	476 	Probopass 	Rock 	Steel
-#054 	054 	Psyduck 	Water
-#247 	247 	Pupitar 	Rock 	Ground
-#509 	509 	Purrloin 	Dark
-#432 	432 	Purugly 	Normal
-#195 	195 	Quagsire 	Water 	Ground
-#156 	156 	Quilava 	Fire
-#211 	211 	Qwilfish 	Water 	Poison
-#026 	026 	Raichu 	Electric
-#243 	243 	Raikou 	Electric
-#280 	280 	Ralts 	Psychic
-#409 	409 	Rampardos 	Rock
-#078 	078 	Rapidash 	Fire
-#020 	020 	Raticate 	Normal
-#019 	019 	Rattata 	Normal
-#384 	384 	Rayquaza 	Dragon 	Flying
-#378 	378 	Regice 	Ice
-#486 	486 	Regigigas 	Normal
-#377 	377 	Regirock 	Rock
-#379 	379 	Registeel 	Steel
-#369 	369 	Relicanth 	Water 	Rock
-#223 	223 	Remoraid 	Water
-#643 	643 	Reshiram 	Dragon 	Fire
-#579 	579 	Reuniclus 	Psychic
-#112 	112 	Rhydon 	Ground 	Rock
-#111 	111 	Rhyhorn 	Ground 	Rock
-#464 	464 	Rhyperior 	Ground 	Rock
-#447 	447 	Riolu 	Fighting
-#524 	524 	Roggenrola 	Rock
-#315 	315 	Roselia 	Grass 	Poison
-#407 	407 	Roserade 	Grass 	Poison
-#479 	479 	Rotom 	Electric 	Ghost
-#627 	627 	Rufflet 	Normal 	Flying
-#302 	302 	Sableye 	Dark 	Ghost
-#373 	373 	Salamence 	Dragon 	Flying
-#503 	503 	Samurott 	Water
-#551 	551 	Sandile 	Ground 	Dark
-#027 	027 	Sandshrew 	Ground
-#028 	028 	Sandslash 	Ground
-#539 	539 	Sawk 	Fighting
-#586 	586 	Sawsbuck 	Normal 	Grass
-#254 	254 	Sceptile 	Grass
-#212 	212 	Scizor 	Bug 	Steel
-#545 	545 	Scolipede 	Bug 	Poison
-#560 	560 	Scrafty 	Dark 	Fighting
-#559 	559 	Scraggy 	Dark 	Fighting
-#123 	123 	Scyther 	Bug 	Flying
-#117 	117 	Seadra 	Water
-#119 	119 	Seaking 	Water
-#364 	364 	Sealeo 	Ice 	Water
-#273 	273 	Seedot 	Grass
-#086 	086 	Seel 	Water
-#537 	537 	Seismitoad 	Water 	Ground
-#161 	161 	Sentret 	Normal
-#497 	497 	Serperior 	Grass
-#496 	496 	Servine 	Grass
-#336 	336 	Seviper 	Poison
-#540 	540 	Sewaddle 	Bug 	Grass
-#319 	319 	Sharpedo 	Water 	Dark
-#492 	492 	Shaymin 	Grass
-#292 	292 	Shedinja 	Bug 	Ghost
-#372 	372 	Shelgon 	Dragon
-#090 	090 	Shellder 	Water
-#422 	422 	Shellos 	Water
-#616 	616 	Shelmet 	Bug
-#410 	410 	Shieldon 	Rock 	Steel
-#275 	275 	Shiftry 	Grass 	Dark
-#403 	403 	Shinx 	Electric
-#285 	285 	Shroomish 	Grass
-#213 	213 	Shuckle 	Bug 	Rock
-#353 	353 	Shuppet 	Ghost
-#561 	561 	Sigilyph 	Psychic 	Flying
-#266 	266 	Silcoon 	Bug
-#516 	516 	Simipour 	Water
-#512 	512 	Simisage 	Grass
-#514 	514 	Simisear 	Fire
-#227 	227 	Skarmory 	Steel 	Flying
-#188 	188 	Skiploom 	Grass 	Flying
-#300 	300 	Skitty 	Normal
-#451 	451 	Skorupi 	Poison 	Bug
-#435 	435 	Skuntank 	Poison 	Dark
-#289 	289 	Slaking 	Normal
-#287 	287 	Slakoth 	Normal
-#080 	080 	Slowbro 	Water 	Psychic
-#199 	199 	Slowking 	Water 	Psychic
-#079 	079 	Slowpoke 	Water 	Psychic
-#218 	218 	Slugma 	Fire
-#235 	235 	Smeargle 	Normal
-#238 	238 	Smoochum 	Ice 	Psychic
-#215 	215 	Sneasel 	Dark 	Ice
-#495 	495 	Snivy 	Grass
-#143 	143 	Snorlax 	Normal
-#361 	361 	Snorunt 	Ice
-#459 	459 	Snover 	Grass 	Ice
-#209 	209 	Snubbull 	Normal
-#577 	577 	Solosis 	Psychic
-#338 	338 	Solrock 	Rock 	Psychic
-#021 	021 	Spearow 	Normal 	Flying
-#363 	363 	Spheal 	Ice 	Water
-#167 	167 	Spinarak 	Bug 	Poison
-#327 	327 	Spinda 	Normal
-#442 	442 	Spiritomb 	Ghost 	Dark
-#325 	325 	Spoink 	Psychic
-#007 	007 	Squirtle 	Water
-#234 	234 	Stantler 	Normal
-#398 	398 	Staraptor 	Normal 	Flying
-#397 	397 	Staravia 	Normal 	Flying
-#396 	396 	Starly 	Normal 	Flying
-#121 	121 	Starmie 	Water 	Psychic
-#120 	120 	Staryu 	Water
-#208 	208 	Steelix 	Steel 	Ground
-#508 	508 	Stoutland 	Normal
-#618 	618 	Stunfisk 	Ground 	Electric
-#434 	434 	Stunky 	Poison 	Dark
-#185 	185 	Sudowoodo 	Rock
-#245 	245 	Suicune 	Water
-#192 	192 	Sunflora 	Grass
-#191 	191 	Sunkern 	Grass
-#283 	283 	Surskit 	Bug 	Water
-#333 	333 	Swablu 	Normal 	Flying
-#541 	541 	Swadloon 	Bug 	Grass
-#317 	317 	Swalot 	Poison
-#260 	260 	Swampert 	Water 	Ground
-#581 	581 	Swanna 	Water 	Flying
-#277 	277 	Swellow 	Normal 	Flying
-#220 	220 	Swinub 	Ice 	Ground
-#528 	528 	Swoobat 	Psychic 	Flying
-#276 	276 	Taillow 	Normal 	Flying
-#114 	114 	Tangela 	Grass
-#465 	465 	Tangrowth 	Grass
-#128 	128 	Tauros 	Normal
-#216 	216 	Teddiursa 	Normal
-#072 	072 	Tentacool 	Water 	Poison
-#073 	073 	Tentacruel 	Water 	Poison
-#498 	498 	Tepig 	Fire
-#639 	639 	Terrakion 	Rock 	Fighting
-#538 	538 	Throh 	Fighting
-#642 	642 	Thundurus 	Electric 	Flying
-#532 	532 	Timburr 	Fighting
-#564 	564 	Tirtouga 	Water 	Rock
-#468 	468 	Togekiss 	Normal 	Flying
-#175 	175 	Togepi 	Normal
-#176 	176 	Togetic 	Normal 	Flying
-#255 	255 	Torchic 	Fire
-#324 	324 	Torkoal 	Fire
-#641 	641 	Tornadus 	Flying
-#389 	389 	Torterra 	Grass 	Ground
-#158 	158 	Totodile 	Water
-#454 	454 	Toxicroak 	Poison 	Fighting
-#520 	520 	Tranquill 	Normal 	Flying
-#328 	328 	Trapinch 	Ground
-#252 	252 	Treecko 	Grass
-#357 	357 	Tropius 	Grass 	Flying
-#568 	568 	Trubbish 	Poison
-#387 	387 	Turtwig 	Grass
-#535 	535 	Tympole 	Water
-#602 	602 	Tynamo 	Electric
-#157 	157 	Typhlosion 	Fire
-#248 	248 	Tyranitar 	Rock 	Dark
-#236 	236 	Tyrogue 	Fighting
-#197 	197 	Umbreon 	Dark
-#521 	521 	Unfezant 	Normal 	Flying
-#201 	201 	Unown 	Psychic
-#217 	217 	Ursaring 	Normal
-#480 	480 	Uxie 	Psychic
-#583 	583 	Vanillish 	Ice
-#582 	582 	Vanillite 	Ice
-#584 	584 	Vanilluxe 	Ice
-#134 	134 	Vaporeon 	Water
-#543 	543 	Venipede 	Bug 	Poison
-#049 	049 	Venomoth 	Bug 	Poison
-#048 	048 	Venonat 	Bug 	Poison
-#003 	003 	Venusaur 	Grass 	Poison
-#416 	416 	Vespiquen 	Bug 	Flying
-#329 	329 	Vibrava 	Ground 	Dragon
-#494 	494 	Victini 	Psychic 	Fire
-#071 	071 	Victreebel 	Grass 	Poison
-#288 	288 	Vigoroth 	Normal
-#045 	045 	Vileplume 	Grass 	Poison
-#640 	640 	Virizion 	Grass 	Fighting
-#313 	313 	Volbeat 	Bug
-#637 	637 	Volcarona 	Bug 	Fire
-#100 	100 	Voltorb 	Electric
-#629 	629 	Vullaby 	Dark 	Flying
-#037 	037 	Vulpix 	Fire
-#320 	320 	Wailmer 	Water
-#321 	321 	Wailord 	Water
-#365 	365 	Walrein 	Ice 	Water
-#008 	008 	Wartortle 	Water
-#505 	505 	Watchog 	Normal
-#461 	461 	Weavile 	Dark 	Ice
-#013 	013 	Weedle 	Bug 	Poison
-#070 	070 	Weepinbell 	Grass 	Poison
-#110 	110 	Weezing 	Poison
-#547 	547 	Whimsicott 	Grass
-#544 	544 	Whirlipede 	Bug 	Poison
-#340 	340 	Whiscash 	Water 	Ground
-#293 	293 	Whismur 	Normal
-#040 	040 	Wigglytuff 	Normal
-#278 	278 	Wingull 	Water 	Flying
-#202 	202 	Wobbuffet 	Psychic
-#527 	527 	Woobat 	Psychic 	Flying
-#194 	194 	Wooper 	Water 	Ground
-#413 	413 	Wormadam 	Bug 	Grass
-#265 	265 	Wurmple 	Bug
-#360 	360 	Wynaut 	Psychic
-#178 	178 	Xatu 	Psychic 	Flying
-#562 	562 	Yamask 	Ghost
-#193 	193 	Yanma 	Bug 	Flying
-#469 	469 	Yanmega 	Bug 	Flying
-#335 	335 	Zangoose 	Normal
-#145 	145 	Zapdos 	Electric 	Flying
-#523 	523 	Zebstrika 	Electric
-#644 	644 	Zekrom 	Dragon 	Electric
-#263 	263 	Zigzagoon 	Normal
-#571 	571 	Zoroark 	Dark
-#570 	570 	Zorua 	Dark
-#041 	041 	Zubat 	Poison 	Flying
-#634 	634 	Zweilous 	Dark 	Dragon
+Ndex 	MS 	Pokémon 	Type	#460 	460	Abomasnow 	Grass 	Ice#063 	63	Abra 	Psychic	#359 	359	Absol 	Dark	#617 	617	Accelgor 	Bug	#681 	681	Aegislash 	Steel 	Ghost#142 	142	Aerodactyl 	Rock 	Flying#306 	306	Aggron 	Steel 	Rock#190 	190	Aipom 	Normal	#065 	65	Alakazam 	Psychic	#594 	594	Alomomola 	Water	#334 	334	Altaria 	Dragon 	Flying#698 	698	Amaura 	Rock 	Ice#424 	424	Ambipom 	Normal	#591 	591	Amoonguss 	Grass 	Poison#181 	181	Ampharos 	Electric	#347 	347	Anorith 	Rock 	Bug#024 	24	Arbok 	Poison	#059 	59	Arcanine 	Fire	#493 	493	Arceus 	Normal	#566 	566	Archen 	Rock 	Flying#567 	567	Archeops 	Rock 	Flying#168 	168	Ariados 	Bug 	Poison#348 	348	Armaldo 	Rock 	Bug#683 	683	Aromatisse 	Fairy	#304 	304	Aron 	Steel 	Rock#144 	144	Articuno 	Ice 	Flying#531 	531	Audino 	Normal	#699 	699	Aurorus 	Rock 	Ice#713 	713	Avalugg 	Ice	#610 	610	Axew 	Dragon	#482 	482	Azelf 	Psychic	#184 	184	Azumarill 	Water 	Fairy#298 	298	Azurill 	Normal 	Fairy#371 	371	Bagon 	Dragon	#343 	343	Baltoy 	Ground 	Psychic#354 	354	Banette 	Ghost	#689 	689	Barbaracle 	Rock 	Water#339 	339	Barboach 	Water 	Ground#550 	550	Basculin 	Water	#411 	411	Bastiodon 	Rock 	Steel#153 	153	Bayleef 	Grass	#614 	614	Beartic 	Ice	#267 	267	Beautifly 	Bug 	Flying#015 	15	Beedrill 	Bug 	Poison#606 	606	Beheeyem 	Psychic	#374 	374	Beldum 	Steel 	Psychic#182 	182	Bellossom 	Grass	#069 	69	Bellsprout 	Grass 	Poison#712 	712	Bergmite 	Ice	#400 	400	Bibarel 	Normal 	Water#399 	399	Bidoof 	Normal	#688 	688	Binacle 	Rock 	Water#625 	625	Bisharp 	Dark 	Steel#009 	9	Blastoise 	Water	#257 	257	Blaziken 	Fire 	Fighting#242 	242	Blissey 	Normal	#522 	522	Blitzle 	Electric	#525 	525	Boldore 	Rock	#438 	438	Bonsly 	Rock	#626 	626	Bouffalant 	Normal	#654 	654	Braixen 	Fire	#628 	628	Braviary 	Normal 	Flying#286 	286	Breloom 	Grass 	Fighting#437 	437	Bronzong 	Steel 	Psychic#436 	436	Bronzor 	Steel 	Psychic#406 	406	Budew 	Grass 	Poison#418 	418	Buizel 	Water	#001 	1	Bulbasaur 	Grass 	Poison#427 	427	Buneary 	Normal	#659 	659	Bunnelby 	Normal	#412 	412	Burmy 	Bug	#012 	12	Butterfree 	Bug 	Flying#331 	331	Cacnea 	Grass	#332 	332	Cacturne 	Grass 	Dark#323 	323	Camerupt 	Fire 	Ground#703 	703	Carbink 	Rock 	Fairy#455 	455	Carnivine 	Grass	#565 	565	Carracosta 	Water 	Rock#318 	318	Carvanha 	Water 	Dark#268 	268	Cascoon 	Bug	#351 	351	Castform 	Normal	#010 	10	Caterpie 	Bug	#251 	251	Celebi 	Psychic 	Grass#609 	609	Chandelure 	Ghost 	Fire#113 	113	Chansey 	Normal	#006 	6	Charizard 	Fire 	Flying#004 	4	Charmander 	Fire	#005 	5	Charmeleon 	Fire	#441 	441	Chatot 	Normal 	Flying#421 	421	Cherrim 	Grass	#420 	420	Cherubi 	Grass	#652 	652	Chesnaught 	Grass 	Fighting#650 	650	Chespin 	Grass	#152 	152	Chikorita 	Grass	#390 	390	Chimchar 	Fire	#358 	358	Chimecho 	Psychic	#170 	170	Chinchou 	Water 	Electric#433 	433	Chingling 	Psychic	#573 	573	Cinccino 	Normal	#366 	366	Clamperl 	Water	#692 	692	Clauncher 	Water	#693 	693	Clawitzer 	Water	#344 	344	Claydol 	Ground 	Psychic#036 	36	Clefable 	Fairy	#035 	35	Clefairy 	Fairy	#173 	173	Cleffa 	Fairy	#091 	91	Cloyster 	Water 	Ice#638 	638	Cobalion 	Steel 	Fighting#563 	563	Cofagrigus 	Ghost	#415 	415	Combee 	Bug 	Flying#256 	256	Combusken 	Fire 	Fighting#534 	534	Conkeldurr 	Fighting	#341 	341	Corphish 	Water	#222 	222	Corsola 	Water 	Rock#546 	546	Cottonee 	Grass 	Fairy#346 	346	Cradily 	Rock 	Grass#408 	408	Cranidos 	Rock	#342 	342	Crawdaunt 	Water 	Dark#488 	488	Cresselia 	Psychic	#453 	453	Croagunk 	Poison 	Fighting#169 	169	Crobat 	Poison 	Flying#159 	159	Croconaw 	Water	#558 	558	Crustle 	Bug 	Rock#615 	615	Cryogonal 	Ice	#613 	613	Cubchoo 	Ice	#104 	104	Cubone 	Ground	#155 	155	Cyndaquil 	Fire	#491 	491	Darkrai 	Dark	#555 	555	Darmanitan 	Fire	#554 	554	Darumaka 	Fire	#702 	702	Dedenne 	Electric 	Fairy#585 	585	Deerling 	Normal 	Grass#633 	633	Deino 	Dark 	Dragon#301 	301	Delcatty 	Normal	#225 	225	Delibird 	Ice 	Flying#655 	655	Delphox 	Fire 	Psychic#386 	386	Deoxys 	Psychic	#087 	87	Dewgong 	Water 	Ice#502 	502	Dewott 	Water	#483 	483	Dialga 	Steel 	Dragon#660 	660	Diggersby 	Normal 	Ground#050 	50	Diglett 	Ground	#132 	132	Ditto 	Normal	#085 	85	Dodrio 	Normal 	Flying#084 	84	Doduo 	Normal 	Flying#232 	232	Donphan 	Ground	#680 	680	Doublade 	Steel 	Ghost#691 	691	Dragalge 	Poison 	Dragon#148 	148	Dragonair 	Dragon	#149 	149	Dragonite 	Dragon 	Flying#452 	452	Drapion 	Poison 	Dark#147 	147	Dratini 	Dragon	#426 	426	Drifblim 	Ghost 	Flying#425 	425	Drifloon 	Ghost 	Flying#529 	529	Drilbur 	Ground	#096 	96	Drowzee 	Psychic	#621 	621	Druddigon 	Dragon	#580 	580	Ducklett 	Water 	Flying#051 	51	Dugtrio 	Ground	#206 	206	Dunsparce 	Normal	#578 	578	Duosion 	Psychic	#632 	632	Durant 	Bug 	Steel#356 	356	Dusclops 	Ghost	#477 	477	Dusknoir 	Ghost	#355 	355	Duskull 	Ghost	#269 	269	Dustox 	Bug 	Poison#557 	557	Dwebble 	Bug 	Rock#603 	603	Eelektrik 	Electric	#604 	604	Eelektross 	Electric	#133 	133	Eevee 	Normal	#023 	23	Ekans 	Poison	#125 	125	Electabuzz 	Electric	#466 	466	Electivire 	Electric	#309 	309	Electrike 	Electric	#101 	101	Electrode 	Electric	#239 	239	Elekid 	Electric	#605 	605	Elgyem 	Psychic	#500 	500	Emboar 	Fire 	Fighting#587 	587	Emolga 	Electric 	Flying#395 	395	Empoleon 	Water 	Steel#244 	244	Entei 	Fire	#589 	589	Escavalier 	Bug 	Steel#196 	196	Espeon 	Psychic	#677 	677	Espurr 	Psychic	#530 	530	Excadrill 	Ground 	Steel#102 	102	Exeggcute 	Grass 	Psychic#103 	103	Exeggutor 	Grass 	Psychic#295 	295	Exploud 	Normal	#083 	83	Farfetch'd 	Normal 	Flying#022 	22	Fearow 	Normal 	Flying#349 	349	Feebas 	Water	#653 	653	Fennekin 	Fire	#160 	160	Feraligatr 	Water	#597 	597	Ferroseed 	Grass 	Steel#598 	598	Ferrothorn 	Grass 	Steel#456 	456	Finneon 	Water	#180 	180	Flaaffy 	Electric	#669 	669	Flabébé 	Fairy	#136 	136	Flareon 	Fire	#662 	662	Fletchinder 	Fire 	Flying#661 	661	Fletchling 	Normal 	Flying#419 	419	Floatzel 	Water	#670 	670	Floette 	Fairy	#671 	671	Florges 	Fairy	#330 	330	Flygon 	Ground 	Dragon#590 	590	Foongus 	Grass 	Poison#205 	205	Forretress 	Bug 	Steel#611 	611	Fraxure 	Dragon	#592 	592	Frillish 	Water 	Ghost#656 	656	Froakie 	Water	#657 	657	Frogadier 	Water	#478 	478	Froslass 	Ice 	Ghost#676 	676	Furfrou 	Normal	#162 	162	Furret 	Normal	#444 	444	Gabite 	Dragon 	Ground#475 	475	Gallade 	Psychic 	Fighting#596 	596	Galvantula 	Bug 	Electric#569 	569	Garbodor 	Poison	#445 	445	Garchomp 	Dragon 	Ground#282 	282	Gardevoir 	Psychic 	Fairy#092 	92	Gastly 	Ghost 	Poison#423 	423	Gastrodon 	Water 	Ground#649 	649	Genesect 	Bug 	Steel#094 	94	Gengar 	Ghost 	Poison#074 	74	Geodude 	Rock 	Ground#443 	443	Gible 	Dragon 	Ground#526 	526	Gigalith 	Rock	#203 	203	Girafarig 	Normal 	Psychic#487 	487	Giratina 	Ghost 	Dragon#471 	471	Glaceon 	Ice	#362 	362	Glalie 	Ice	#431 	431	Glameow 	Normal	#207 	207	Gligar 	Ground 	Flying#472 	472	Gliscor 	Ground 	Flying#044 	44	Gloom 	Grass 	Poison#673 	673	Gogoat 	Grass	#042 	42	Golbat 	Poison 	Flying#118 	118	Goldeen 	Water	#055 	55	Golduck 	Water	#076 	76	Golem 	Rock 	Ground#622 	622	Golett 	Ground 	Ghost#623 	623	Golurk 	Ground 	Ghost#706 	706	Goodra 	Dragon	#704 	704	Goomy 	Dragon	#368 	368	Gorebyss 	Water	#574 	574	Gothita 	Psychic	#576 	576	Gothitelle 	Psychic	#575 	575	Gothorita 	Psychic	#711 	711	Gourgeist 	Ghost 	Grass#210 	210	Granbull 	Fairy	#075 	75	Graveler 	Rock 	Ground#658 	658	Greninja 	Water 	Dark#088 	88	Grimer 	Poison	#388 	388	Grotle 	Grass	#383 	383	Groudon 	Ground	#253 	253	Grovyle 	Grass	#058 	58	Growlithe 	Fire	#326 	326	Grumpig 	Psychic	#316 	316	Gulpin 	Poison	#533 	533	Gurdurr 	Fighting	#130 	130	Gyarados 	Water 	Flying#440 	440	Happiny 	Normal	#297 	297	Hariyama 	Fighting	#093 	93	Haunter 	Ghost 	Poison#701 	701	Hawlucha 	Fighting 	Flying#612 	612	Haxorus 	Dragon	#631 	631	Heatmor 	Fire	#485 	485	Heatran 	Fire 	Steel#695 	695	Heliolisk 	Electric 	Normal#694 	694	Helioptile 	Electric 	Normal#214 	214	Heracross 	Bug 	Fighting#507 	507	Herdier 	Normal	#449 	449	Hippopotas 	Ground	#450 	450	Hippowdon 	Ground	#107 	107	Hitmonchan 	Fighting	#106 	106	Hitmonlee 	Fighting	#237 	237	Hitmontop 	Fighting	#250 	250	Ho-Oh 	Fire 	Flying#430 	430	Honchkrow 	Dark 	Flying#679 	679	Honedge 	Steel 	Ghost#163 	163	Hoothoot 	Normal 	Flying#187 	187	Hoppip 	Grass 	Flying#116 	116	Horsea 	Water	#229 	229	Houndoom 	Dark 	Fire#228 	228	Houndour 	Dark 	Fire#367 	367	Huntail 	Water	#635 	635	Hydreigon 	Dark 	Dragon#097 	97	Hypno 	Psychic	#174 	174	Igglybuff 	Normal 	Fairy#314 	314	Illumise 	Bug	#392 	392	Infernape 	Fire 	Fighting#686 	686	Inkay 	Dark 	Psychic#002 	2	Ivysaur 	Grass 	Poison#593 	593	Jellicent 	Water 	Ghost#039 	39	Jigglypuff 	Normal 	Fairy#385 	385	Jirachi 	Steel 	Psychic#135 	135	Jolteon 	Electric	#595 	595	Joltik 	Bug 	Electric#189 	189	Jumpluff 	Grass 	Flying#124 	124	Jynx 	Ice 	Psychic#140 	140	Kabuto 	Rock 	Water#141 	141	Kabutops 	Rock 	Water#064 	64	Kadabra 	Psychic	#014 	14	Kakuna 	Bug 	Poison#115 	115	Kangaskhan 	Normal	#588 	588	Karrablast 	Bug	#352 	352	Kecleon 	Normal	#647 	647	Keldeo 	Water 	Fighting#230 	230	Kingdra 	Water 	Dragon#099 	99	Kingler 	Water	#281 	281	Kirlia 	Psychic 	Fairy#600 	600	Klang 	Steel	#707 	707	Klefki 	Steel 	Fairy#599 	599	Klink 	Steel	#601 	601	Klinklang 	Steel	#109 	109	Koffing 	Poison	#098 	98	Krabby 	Water	#401 	401	Kricketot 	Bug	#402 	402	Kricketune 	Bug	#552 	552	Krokorok 	Ground 	Dark#553 	553	Krookodile 	Ground 	Dark#382 	382	Kyogre 	Water	#646 	646	Kyurem 	Dragon 	Ice#305 	305	Lairon 	Steel 	Rock#608 	608	Lampent 	Ghost 	Fire#645 	645	Landorus 	Ground 	Flying#171 	171	Lanturn 	Water 	Electric#131 	131	Lapras 	Water 	Ice#636 	636	Larvesta 	Bug 	Fire#246 	246	Larvitar 	Rock 	Ground#380 	380	Latias 	Dragon 	Psychic#381 	381	Latios 	Dragon 	Psychic#470 	470	Leafeon 	Grass	#542 	542	Leavanny 	Bug 	Grass#166 	166	Ledian 	Bug 	Flying#165 	165	Ledyba 	Bug 	Flying#463 	463	Lickilicky 	Normal	#108 	108	Lickitung 	Normal	#510 	510	Liepard 	Dark	#345 	345	Lileep 	Rock 	Grass#549 	549	Lilligant 	Grass	#506 	506	Lillipup 	Normal	#264 	264	Linoone 	Normal	#667 	667	Litleo 	Fire 	Normal#607 	607	Litwick 	Ghost 	Fire#271 	271	Lombre 	Water 	Grass#428 	428	Lopunny 	Normal	#270 	270	Lotad 	Water 	Grass#294 	294	Loudred 	Normal	#448 	448	Lucario 	Fighting 	Steel#272 	272	Ludicolo 	Water 	Grass#249 	249	Lugia 	Psychic 	Flying#457 	457	Lumineon 	Water	#337 	337	Lunatone 	Rock 	Psychic#370 	370	Luvdisc 	Water	#404 	404	Luxio 	Electric	#405 	405	Luxray 	Electric	#068 	68	Machamp 	Fighting	#067 	67	Machoke 	Fighting	#066 	66	Machop 	Fighting	#240 	240	Magby 	Fire	#219 	219	Magcargo 	Fire 	Rock#129 	129	Magikarp 	Water	#126 	126	Magmar 	Fire	#467 	467	Magmortar 	Fire	#081 	81	Magnemite 	Electric 	Steel#082 	82	Magneton 	Electric 	Steel#462 	462	Magnezone 	Electric 	Steel#296 	296	Makuhita 	Fighting	#687 	687	Malamar 	Dark 	Psychic#473 	473	Mamoswine 	Ice 	Ground#490 	490	Manaphy 	Water	#630 	630	Mandibuzz 	Dark 	Flying#310 	310	Manectric 	Electric	#056 	56	Mankey 	Fighting	#226 	226	Mantine 	Water 	Flying#458 	458	Mantyke 	Water 	Flying#556 	556	Maractus 	Grass	#179 	179	Mareep 	Electric	#183 	183	Marill 	Water 	Fairy#105 	105	Marowak 	Ground	#259 	259	Marshtomp 	Water 	Ground#284 	284	Masquerain 	Bug 	Flying#303 	303	Mawile 	Steel 	Fairy#308 	308	Medicham 	Fighting 	Psychic#307 	307	Meditite 	Fighting 	Psychic#154 	154	Meganium 	Grass	#648 	648	Meloetta 	Normal 	Psychic#678 	678	Meowstic 	Psychic	#052 	52	Meowth 	Normal	#481 	481	Mesprit 	Psychic	#376 	376	Metagross 	Steel 	Psychic#375 	375	Metang 	Steel 	Psychic#011 	11	Metapod 	Bug	#151 	151	Mew 	Psychic	#150 	150	Mewtwo 	Psychic	#619 	619	Mienfoo 	Fighting	#620 	620	Mienshao 	Fighting	#262 	262	Mightyena 	Dark	#350 	350	Milotic 	Water	#241 	241	Miltank 	Normal	#439 	439	Mime Jr. 	Psychic 	Fairy#572 	572	Minccino 	Normal	#312 	312	Minun 	Electric	#200 	200	Misdreavus 	Ghost	#429 	429	Mismagius 	Ghost	#146 	146	Moltres 	Fire 	Flying#391 	391	Monferno 	Fire 	Fighting#414 	414	Mothim 	Bug 	Flying#122 	122	Mr. Mime 	Psychic 	Fairy#258 	258	Mudkip 	Water	#089 	89	Muk 	Poison	#446 	446	Munchlax 	Normal	#517 	517	Munna 	Psychic	#198 	198	Murkrow 	Dark 	Flying#518 	518	Musharna 	Psychic	#177 	177	Natu 	Psychic 	Flying#034 	34	Nidoking 	Poison 	Ground#031 	31	Nidoqueen 	Poison 	Ground#029 	29	Nidoran♀ 	Poison	#032 	32	Nidoran♂ 	Poison	#030 	30	Nidorina 	Poison	#033 	33	Nidorino 	Poison	#290 	290	Nincada 	Bug 	Ground#038 	38	Ninetales 	Fire	#291 	291	Ninjask 	Bug 	Flying#164 	164	Noctowl 	Normal 	Flying#714 	714	Noibat 	Flying 	Dragon#715 	715	Noivern 	Flying 	Dragon#299 	299	Nosepass 	Rock	#322 	322	Numel 	Fire 	Ground#274 	274	Nuzleaf 	Grass 	Dark#224 	224	Octillery 	Water	#043 	43	Oddish 	Grass 	Poison#138 	138	Omanyte 	Rock 	Water#139 	139	Omastar 	Rock 	Water#095 	95	Onix 	Rock 	Ground#501 	501	Oshawott 	Water	#417 	417	Pachirisu 	Electric	#484 	484	Palkia 	Water 	Dragon#536 	536	Palpitoad 	Water 	Ground#674 	674	Pancham 	Fighting	#675 	675	Pangoro 	Fighting 	Dark#515 	515	Panpour 	Water	#511 	511	Pansage 	Grass	#513 	513	Pansear 	Fire	#046 	46	Paras 	Bug 	Grass#047 	47	Parasect 	Bug 	Grass#504 	504	Patrat 	Normal	#624 	624	Pawniard 	Dark 	Steel#279 	279	Pelipper 	Water 	Flying#053 	53	Persian 	Normal	#548 	548	Petilil 	Grass	#231 	231	Phanpy 	Ground	#708 	708	Phantump 	Ghost 	Grass#489 	489	Phione 	Water	#172 	172	Pichu 	Electric	#018 	18	Pidgeot 	Normal 	Flying#017 	17	Pidgeotto 	Normal 	Flying#016 	16	Pidgey 	Normal 	Flying#519 	519	Pidove 	Normal 	Flying#499 	499	Pignite 	Fire 	Fighting#025 	25	Pikachu 	Electric	#221 	221	Piloswine 	Ice 	Ground#204 	204	Pineco 	Bug	#127 	127	Pinsir 	Bug	#393 	393	Piplup 	Water	#311 	311	Plusle 	Electric	#186 	186	Politoed 	Water	#060 	60	Poliwag 	Water	#061 	61	Poliwhirl 	Water	#062 	62	Poliwrath 	Water 	Fighting#077 	77	Ponyta 	Fire	#261 	261	Poochyena 	Dark	#137 	137	Porygon 	Normal	#233 	233	Porygon2 	Normal	#474 	474	Porygon-Z 	Normal	#057 	57	Primeape 	Fighting	#394 	394	Prinplup 	Water	#476 	476	Probopass 	Rock 	Steel#054 	54	Psyduck 	Water	#710 	710	Pumpkaboo 	Ghost 	Grass#247 	247	Pupitar 	Rock 	Ground#509 	509	Purrloin 	Dark	#432 	432	Purugly 	Normal	#668 	668	Pyroar 	Fire 	Normal#195 	195	Quagsire 	Water 	Ground#156 	156	Quilava 	Fire	#651 	651	Quilladin 	Grass	#211 	211	Qwilfish 	Water 	Poison#026 	26	Raichu 	Electric	#243 	243	Raikou 	Electric	#280 	280	Ralts 	Psychic 	Fairy#409 	409	Rampardos 	Rock	#078 	78	Rapidash 	Fire	#020 	20	Raticate 	Normal	#019 	19	Rattata 	Normal	#384 	384	Rayquaza 	Dragon 	Flying#378 	378	Regice 	Ice	#486 	486	Regigigas 	Normal	#377 	377	Regirock 	Rock	#379 	379	Registeel 	Steel	#369 	369	Relicanth 	Water 	Rock#223 	223	Remoraid 	Water	#643 	643	Reshiram 	Dragon 	Fire#579 	579	Reuniclus 	Psychic	#112 	112	Rhydon 	Ground 	Rock#111 	111	Rhyhorn 	Ground 	Rock#464 	464	Rhyperior 	Ground 	Rock#447 	447	Riolu 	Fighting	#524 	524	Roggenrola 	Rock	#315 	315	Roselia 	Grass 	Poison#407 	407	Roserade 	Grass 	Poison#479 	479	Rotom 	Electric 	Ghost#627 	627	Rufflet 	Normal 	Flying#302 	302	Sableye 	Dark 	Ghost#373 	373	Salamence 	Dragon 	Flying#503 	503	Samurott 	Water	#551 	551	Sandile 	Ground 	Dark#027 	27	Sandshrew 	Ground	#028 	28	Sandslash 	Ground	#539 	539	Sawk 	Fighting	#586 	586	Sawsbuck 	Normal 	Grass#664 	664	Scatterbug 	Bug	#254 	254	Sceptile 	Grass	#212 	212	Scizor 	Bug 	Steel#545 	545	Scolipede 	Bug 	Poison#560 	560	Scrafty 	Dark 	Fighting#559 	559	Scraggy 	Dark 	Fighting#123 	123	Scyther 	Bug 	Flying#117 	117	Seadra 	Water	#119 	119	Seaking 	Water	#364 	364	Sealeo 	Ice 	Water#273 	273	Seedot 	Grass	#086 	86	Seel 	Water	#537 	537	Seismitoad 	Water 	Ground#161 	161	Sentret 	Normal	#497 	497	Serperior 	Grass	#496 	496	Servine 	Grass	#336 	336	Seviper 	Poison	#540 	540	Sewaddle 	Bug 	Grass#319 	319	Sharpedo 	Water 	Dark#492 	492	Shaymin 	Grass	#292 	292	Shedinja 	Bug 	Ghost#372 	372	Shelgon 	Dragon	#090 	90	Shellder 	Water	#422 	422	Shellos 	Water	#616 	616	Shelmet 	Bug	#410 	410	Shieldon 	Rock 	Steel#275 	275	Shiftry 	Grass 	Dark#403 	403	Shinx 	Electric	#285 	285	Shroomish 	Grass	#213 	213	Shuckle 	Bug 	Rock#353 	353	Shuppet 	Ghost	#561 	561	Sigilyph 	Psychic 	Flying#266 	266	Silcoon 	Bug	#516 	516	Simipour 	Water	#512 	512	Simisage 	Grass	#514 	514	Simisear 	Fire	#227 	227	Skarmory 	Steel 	Flying#672 	672	Skiddo 	Grass	#188 	188	Skiploom 	Grass 	Flying#300 	300	Skitty 	Normal	#451 	451	Skorupi 	Poison 	Bug#690 	690	Skrelp 	Poison 	Water#435 	435	Skuntank 	Poison 	Dark#289 	289	Slaking 	Normal	#287 	287	Slakoth 	Normal	#705 	705	Sliggoo 	Dragon	#080 	80	Slowbro 	Water 	Psychic#199 	199	Slowking 	Water 	Psychic#079 	79	Slowpoke 	Water 	Psychic#218 	218	Slugma 	Fire	#685 	685	Slurpuff 	Fairy	#235 	235	Smeargle 	Normal	#238 	238	Smoochum 	Ice 	Psychic#215 	215	Sneasel 	Dark 	Ice#495 	495	Snivy 	Grass	#143 	143	Snorlax 	Normal	#361 	361	Snorunt 	Ice	#459 	459	Snover 	Grass 	Ice#209 	209	Snubbull 	Fairy	#577 	577	Solosis 	Psychic	#338 	338	Solrock 	Rock 	Psychic#021 	21	Spearow 	Normal 	Flying#665 	665	Spewpa 	Bug	#363 	363	Spheal 	Ice 	Water#167 	167	Spinarak 	Bug 	Poison#327 	327	Spinda 	Normal	#442 	442	Spiritomb 	Ghost 	Dark#325 	325	Spoink 	Psychic	#682 	682	Spritzee 	Fairy	#007 	7	Squirtle 	Water	#234 	234	Stantler 	Normal	#398 	398	Staraptor 	Normal 	Flying#397 	397	Staravia 	Normal 	Flying#396 	396	Starly 	Normal 	Flying#121 	121	Starmie 	Water 	Psychic#120 	120	Staryu 	Water	#208 	208	Steelix 	Steel 	Ground#508 	508	Stoutland 	Normal	#618 	618	Stunfisk 	Ground 	Electric#434 	434	Stunky 	Poison 	Dark#185 	185	Sudowoodo 	Rock	#245 	245	Suicune 	Water	#192 	192	Sunflora 	Grass	#191 	191	Sunkern 	Grass	#283 	283	Surskit 	Bug 	Water#333 	333	Swablu 	Normal 	Flying#541 	541	Swadloon 	Bug 	Grass#317 	317	Swalot 	Poison	#260 	260	Swampert 	Water 	Ground#581 	581	Swanna 	Water 	Flying#277 	277	Swellow 	Normal 	Flying#220 	220	Swinub 	Ice 	Ground#684 	684	Swirlix 	Fairy	#528 	528	Swoobat 	Psychic 	Flying#700 	700	Sylveon 	Fairy	#276 	276	Taillow 	Normal 	Flying#663 	663	Talonflame 	Fire 	Flying#114 	114	Tangela 	Grass	#465 	465	Tangrowth 	Grass	#128 	128	Tauros 	Normal	#216 	216	Teddiursa 	Normal	#072 	72	Tentacool 	Water 	Poison#073 	73	Tentacruel 	Water 	Poison#498 	498	Tepig 	Fire	#639 	639	Terrakion 	Rock 	Fighting#538 	538	Throh 	Fighting	#642 	642	Thundurus 	Electric 	Flying#532 	532	Timburr 	Fighting	#564 	564	Tirtouga 	Water 	Rock#468 	468	Togekiss 	Fairy 	Flying#175 	175	Togepi 	Fairy	#176 	176	Togetic 	Fairy 	Flying#255 	255	Torchic 	Fire	#324 	324	Torkoal 	Fire	#641 	641	Tornadus 	Flying	#389 	389	Torterra 	Grass 	Ground#158 	158	Totodile 	Water	#454 	454	Toxicroak 	Poison 	Fighting#520 	520	Tranquill 	Normal 	Flying#328 	328	Trapinch 	Ground	#252 	252	Treecko 	Grass	#709 	709	Trevenant 	Ghost 	Grass#357 	357	Tropius 	Grass 	Flying#568 	568	Trubbish 	Poison	#387 	387	Turtwig 	Grass	#535 	535	Tympole 	Water	#602 	602	Tynamo 	Electric	#157 	157	Typhlosion 	Fire	#248 	248	Tyranitar 	Rock 	Dark#697 	697	Tyrantrum 	Rock 	Dragon#236 	236	Tyrogue 	Fighting	#696 	696	Tyrunt 	Rock 	Dragon#197 	197	Umbreon 	Dark	#521 	521	Unfezant 	Normal 	Flying#201 	201	Unown 	Psychic	#217 	217	Ursaring 	Normal	#480 	480	Uxie 	Psychic	#583 	583	Vanillish 	Ice	#582 	582	Vanillite 	Ice	#584 	584	Vanilluxe 	Ice	#134 	134	Vaporeon 	Water	#543 	543	Venipede 	Bug 	Poison#049 	49	Venomoth 	Bug 	Poison#048 	48	Venonat 	Bug 	Poison#003 	3	Venusaur 	Grass 	Poison#416 	416	Vespiquen 	Bug 	Flying#329 	329	Vibrava 	Ground 	Dragon#494 	494	Victini 	Psychic 	Fire#071 	71	Victreebel 	Grass 	Poison#288 	288	Vigoroth 	Normal	#045 	45	Vileplume 	Grass 	Poison#640 	640	Virizion 	Grass 	Fighting#666 	666	Vivillon 	Bug 	Flying#313 	313	Volbeat 	Bug	#637 	637	Volcarona 	Bug 	Fire#100 	100	Voltorb 	Electric	#629 	629	Vullaby 	Dark 	Flying#037 	37	Vulpix 	Fire	#320 	320	Wailmer 	Water	#321 	321	Wailord 	Water	#365 	365	Walrein 	Ice 	Water#008 	8	Wartortle 	Water	#505 	505	Watchog 	Normal	#461 	461	Weavile 	Dark 	Ice#013 	13	Weedle 	Bug 	Poison#070 	70	Weepinbell 	Grass 	Poison#110 	110	Weezing 	Poison	#547 	547	Whimsicott 	Grass 	Fairy#544 	544	Whirlipede 	Bug 	Poison#340 	340	Whiscash 	Water 	Ground#293 	293	Whismur 	Normal	#040 	40	Wigglytuff 	Normal 	Fairy#278 	278	Wingull 	Water 	Flying#202 	202	Wobbuffet 	Psychic	#527 	527	Woobat 	Psychic 	Flying#194 	194	Wooper 	Water 	Ground#413 	413	Wormadam 	Bug 	Grass#265 	265	Wurmple 	Bug	#360 	360	Wynaut 	Psychic	#178 	178	Xatu 	Psychic 	Flying#716 	716	Xerneas 	Fairy	#562 	562	Yamask 	Ghost	#193 	193	Yanma 	Bug 	Flying#469 	469	Yanmega 	Bug 	Flying#717 	717	Yveltal 	Dark 	Flying#335 	335	Zangoose 	Normal	#145 	145	Zapdos 	Electric 	Flying#523 	523	Zebstrika 	Electric	#644 	644	Zekrom 	Dragon 	Electric#263 	263	Zigzagoon 	Normal	#571 	571	Zoroark 	Dark	#570 	570	Zorua 	Dark	#041 	41	Zubat 	Poison 	Flying#634 	634	Zweilous 	Dark 	Dragon#718 	718	Zygarde 	Dragon 	Ground
